@@ -20,7 +20,7 @@ class Hospital:
     def appoint_info(self):
         if (self.num > 0 and self.num<20):                     # will check for appointment nnumbers between 1 to 20
             print(f"{self.name} you can visit the Doctor at prescribed time.")
-            self.num=self.num-1
+            #self.num=self.num-1
         else:
             print("Sorry there are no appointment's available")
 
