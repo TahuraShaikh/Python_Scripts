@@ -1,2 +1,2 @@
-# python-codes
-pyhton programs
+# Python
+This repopsitory contains python scripts.
